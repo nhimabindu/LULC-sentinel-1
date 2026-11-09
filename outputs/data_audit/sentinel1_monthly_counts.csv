@@ -1,0 +1,181 @@
+city,state,year,month,sentinel1_scene_count
+Heidelberg,Baden-Württemberg,2025,1,8
+Heidelberg,Baden-Württemberg,2025,2,7
+Heidelberg,Baden-Württemberg,2025,3,8
+Heidelberg,Baden-Württemberg,2025,4,7
+Heidelberg,Baden-Württemberg,2025,5,15
+Heidelberg,Baden-Württemberg,2025,6,15
+Heidelberg,Baden-Württemberg,2025,7,16
+Heidelberg,Baden-Württemberg,2025,8,15
+Heidelberg,Baden-Württemberg,2025,9,16
+Heidelberg,Baden-Württemberg,2025,10,15
+Heidelberg,Baden-Württemberg,2025,11,14
+Heidelberg,Baden-Württemberg,2025,12,16
+Berlin,Berlin,2025,1,11
+Berlin,Berlin,2025,2,9
+Berlin,Berlin,2025,3,11
+Berlin,Berlin,2025,4,19
+Berlin,Berlin,2025,5,24
+Berlin,Berlin,2025,6,23
+Berlin,Berlin,2025,7,23
+Berlin,Berlin,2025,8,23
+Berlin,Berlin,2025,9,22
+Berlin,Berlin,2025,10,23
+Berlin,Berlin,2025,11,22
+Berlin,Berlin,2025,12,24
+Munich,Bavaria,2025,1,13
+Munich,Bavaria,2025,2,11
+Munich,Bavaria,2025,3,14
+Munich,Bavaria,2025,4,16
+Munich,Bavaria,2025,5,23
+Munich,Bavaria,2025,6,22
+Munich,Bavaria,2025,7,23
+Munich,Bavaria,2025,8,22
+Munich,Bavaria,2025,9,24
+Munich,Bavaria,2025,10,23
+Munich,Bavaria,2025,11,21
+Munich,Bavaria,2025,12,23
+Hamburg,Hamburg,2025,1,10
+Hamburg,Hamburg,2025,2,9
+Hamburg,Hamburg,2025,3,11
+Hamburg,Hamburg,2025,4,13
+Hamburg,Hamburg,2025,5,20
+Hamburg,Hamburg,2025,6,20
+Hamburg,Hamburg,2025,7,21
+Hamburg,Hamburg,2025,8,20
+Hamburg,Hamburg,2025,9,20
+Hamburg,Hamburg,2025,10,19
+Hamburg,Hamburg,2025,11,19
+Hamburg,Hamburg,2025,12,19
+Frankfurt am Main,Hesse,2025,1,10
+Frankfurt am Main,Hesse,2025,2,9
+Frankfurt am Main,Hesse,2025,3,12
+Frankfurt am Main,Hesse,2025,4,12
+Frankfurt am Main,Hesse,2025,5,20
+Frankfurt am Main,Hesse,2025,6,20
+Frankfurt am Main,Hesse,2025,7,21
+Frankfurt am Main,Hesse,2025,8,20
+Frankfurt am Main,Hesse,2025,9,22
+Frankfurt am Main,Hesse,2025,10,20
+Frankfurt am Main,Hesse,2025,11,19
+Frankfurt am Main,Hesse,2025,12,20
+Cologne,North Rhine-Westphalia,2025,1,11
+Cologne,North Rhine-Westphalia,2025,2,9
+Cologne,North Rhine-Westphalia,2025,3,10
+Cologne,North Rhine-Westphalia,2025,4,11
+Cologne,North Rhine-Westphalia,2025,5,20
+Cologne,North Rhine-Westphalia,2025,6,20
+Cologne,North Rhine-Westphalia,2025,7,21
+Cologne,North Rhine-Westphalia,2025,8,19
+Cologne,North Rhine-Westphalia,2025,9,23
+Cologne,North Rhine-Westphalia,2025,10,20
+Cologne,North Rhine-Westphalia,2025,11,18
+Cologne,North Rhine-Westphalia,2025,12,21
+Stuttgart,Baden-Württemberg,2025,1,7
+Stuttgart,Baden-Württemberg,2025,2,7
+Stuttgart,Baden-Württemberg,2025,3,8
+Stuttgart,Baden-Württemberg,2025,4,8
+Stuttgart,Baden-Württemberg,2025,5,15
+Stuttgart,Baden-Württemberg,2025,6,15
+Stuttgart,Baden-Württemberg,2025,7,15
+Stuttgart,Baden-Württemberg,2025,8,15
+Stuttgart,Baden-Württemberg,2025,9,18
+Stuttgart,Baden-Württemberg,2025,10,15
+Stuttgart,Baden-Württemberg,2025,11,14
+Stuttgart,Baden-Württemberg,2025,12,15
+Düsseldorf,North Rhine-Westphalia,2025,1,11
+Düsseldorf,North Rhine-Westphalia,2025,2,9
+Düsseldorf,North Rhine-Westphalia,2025,3,10
+Düsseldorf,North Rhine-Westphalia,2025,4,11
+Düsseldorf,North Rhine-Westphalia,2025,5,20
+Düsseldorf,North Rhine-Westphalia,2025,6,20
+Düsseldorf,North Rhine-Westphalia,2025,7,21
+Düsseldorf,North Rhine-Westphalia,2025,8,19
+Düsseldorf,North Rhine-Westphalia,2025,9,23
+Düsseldorf,North Rhine-Westphalia,2025,10,20
+Düsseldorf,North Rhine-Westphalia,2025,11,18
+Düsseldorf,North Rhine-Westphalia,2025,12,21
+Dresden,Saxony,2025,1,8
+Dresden,Saxony,2025,2,7
+Dresden,Saxony,2025,3,8
+Dresden,Saxony,2025,4,14
+Dresden,Saxony,2025,5,16
+Dresden,Saxony,2025,6,15
+Dresden,Saxony,2025,7,16
+Dresden,Saxony,2025,8,14
+Dresden,Saxony,2025,9,15
+Dresden,Saxony,2025,10,15
+Dresden,Saxony,2025,11,15
+Dresden,Saxony,2025,12,16
+Leipzig,Saxony,2025,1,11
+Leipzig,Saxony,2025,2,9
+Leipzig,Saxony,2025,3,11
+Leipzig,Saxony,2025,4,19
+Leipzig,Saxony,2025,5,21
+Leipzig,Saxony,2025,6,20
+Leipzig,Saxony,2025,7,21
+Leipzig,Saxony,2025,8,19
+Leipzig,Saxony,2025,9,20
+Leipzig,Saxony,2025,10,21
+Leipzig,Saxony,2025,11,20
+Leipzig,Saxony,2025,12,21
+Bremen,Bremen,2025,1,10
+Bremen,Bremen,2025,2,9
+Bremen,Bremen,2025,3,12
+Bremen,Bremen,2025,4,12
+Bremen,Bremen,2025,5,19
+Bremen,Bremen,2025,6,20
+Bremen,Bremen,2025,7,21
+Bremen,Bremen,2025,8,20
+Bremen,Bremen,2025,9,22
+Bremen,Bremen,2025,10,20
+Bremen,Bremen,2025,11,19
+Bremen,Bremen,2025,12,20
+Hannover,Lower Saxony,2025,1,7
+Hannover,Lower Saxony,2025,2,7
+Hannover,Lower Saxony,2025,3,9
+Hannover,Lower Saxony,2025,4,8
+Hannover,Lower Saxony,2025,5,16
+Hannover,Lower Saxony,2025,6,17
+Hannover,Lower Saxony,2025,7,19
+Hannover,Lower Saxony,2025,8,17
+Hannover,Lower Saxony,2025,9,20
+Hannover,Lower Saxony,2025,10,17
+Hannover,Lower Saxony,2025,11,17
+Hannover,Lower Saxony,2025,12,16
+Nuremberg,Bavaria,2025,1,10
+Nuremberg,Bavaria,2025,2,9
+Nuremberg,Bavaria,2025,3,11
+Nuremberg,Bavaria,2025,4,15
+Nuremberg,Bavaria,2025,5,23
+Nuremberg,Bavaria,2025,6,22
+Nuremberg,Bavaria,2025,7,23
+Nuremberg,Bavaria,2025,8,22
+Nuremberg,Bavaria,2025,9,26
+Nuremberg,Bavaria,2025,10,21
+Nuremberg,Bavaria,2025,11,22
+Nuremberg,Bavaria,2025,12,21
+Karlsruhe,Baden-Württemberg,2025,1,8
+Karlsruhe,Baden-Württemberg,2025,2,7
+Karlsruhe,Baden-Württemberg,2025,3,8
+Karlsruhe,Baden-Württemberg,2025,4,7
+Karlsruhe,Baden-Württemberg,2025,5,15
+Karlsruhe,Baden-Württemberg,2025,6,15
+Karlsruhe,Baden-Württemberg,2025,7,16
+Karlsruhe,Baden-Württemberg,2025,8,15
+Karlsruhe,Baden-Württemberg,2025,9,17
+Karlsruhe,Baden-Württemberg,2025,10,15
+Karlsruhe,Baden-Württemberg,2025,11,14
+Karlsruhe,Baden-Württemberg,2025,12,16
+Freiburg im Breisgau,Baden-Württemberg,2025,1,10
+Freiburg im Breisgau,Baden-Württemberg,2025,2,10
+Freiburg im Breisgau,Baden-Württemberg,2025,3,10
+Freiburg im Breisgau,Baden-Württemberg,2025,4,12
+Freiburg im Breisgau,Baden-Württemberg,2025,5,20
+Freiburg im Breisgau,Baden-Württemberg,2025,6,20
+Freiburg im Breisgau,Baden-Württemberg,2025,7,21
+Freiburg im Breisgau,Baden-Württemberg,2025,8,20
+Freiburg im Breisgau,Baden-Württemberg,2025,9,22
+Freiburg im Breisgau,Baden-Württemberg,2025,10,21
+Freiburg im Breisgau,Baden-Württemberg,2025,11,19
+Freiburg im Breisgau,Baden-Württemberg,2025,12,20

@@ -1,0 +1,4 @@
+City,Compared_Months,Comparable_Pixel_Month_Observations,Mean_Comparable_Coverage,Mean_Overall_Agreement,Mean_Macro_F1,Mean_mIoU
+Heidelberg,12,2630087,87.668,45.389,27.186,15.088
+Nairobi,11,1811914,66.418,60.768,33.711,20.972
+Sydney,12,2922640,97.642,82.452,59.851,34.079

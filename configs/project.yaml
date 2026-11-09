@@ -1,0 +1,12 @@
+project:
+  name: LULC Sentinel-1
+  earth_engine_project_id: lulc-sentinel1-project-512811
+  start_date: "2025-01-01"
+  end_date_exclusive: "2026-01-01"
+  required_annual_acquisitions_per_city: 50
+  input_bands: [VV, VH]
+  buffer_metres: 2500
+  scale_metres: 10
+  patch_size: 64
+  num_classes: 6
+  ignore_index: 255

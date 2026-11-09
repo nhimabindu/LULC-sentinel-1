@@ -1,0 +1,865 @@
+City,Split,Month,Class_ID,Class,Pixels
+Heidelberg,test,1,0,Tree cover,229101
+Heidelberg,test,1,1,Grassland,80051
+Heidelberg,test,1,2,Cropland,96169
+Heidelberg,test,1,3,Built-up,369595
+Heidelberg,test,1,4,Bare vegetation,1532
+Heidelberg,test,1,5,Permanent water,24340
+Heidelberg,test,2,0,Tree cover,229101
+Heidelberg,test,2,1,Grassland,80051
+Heidelberg,test,2,2,Cropland,96169
+Heidelberg,test,2,3,Built-up,369595
+Heidelberg,test,2,4,Bare vegetation,1532
+Heidelberg,test,2,5,Permanent water,24340
+Heidelberg,test,3,0,Tree cover,229101
+Heidelberg,test,3,1,Grassland,80051
+Heidelberg,test,3,2,Cropland,96169
+Heidelberg,test,3,3,Built-up,369595
+Heidelberg,test,3,4,Bare vegetation,1532
+Heidelberg,test,3,5,Permanent water,24340
+Heidelberg,test,4,0,Tree cover,229101
+Heidelberg,test,4,1,Grassland,80051
+Heidelberg,test,4,2,Cropland,96169
+Heidelberg,test,4,3,Built-up,369595
+Heidelberg,test,4,4,Bare vegetation,1532
+Heidelberg,test,4,5,Permanent water,24340
+Heidelberg,test,5,0,Tree cover,229101
+Heidelberg,test,5,1,Grassland,80051
+Heidelberg,test,5,2,Cropland,96169
+Heidelberg,test,5,3,Built-up,369595
+Heidelberg,test,5,4,Bare vegetation,1532
+Heidelberg,test,5,5,Permanent water,24340
+Heidelberg,test,6,0,Tree cover,229101
+Heidelberg,test,6,1,Grassland,80051
+Heidelberg,test,6,2,Cropland,96169
+Heidelberg,test,6,3,Built-up,369595
+Heidelberg,test,6,4,Bare vegetation,1532
+Heidelberg,test,6,5,Permanent water,24340
+Heidelberg,test,7,0,Tree cover,229101
+Heidelberg,test,7,1,Grassland,80051
+Heidelberg,test,7,2,Cropland,96169
+Heidelberg,test,7,3,Built-up,369595
+Heidelberg,test,7,4,Bare vegetation,1532
+Heidelberg,test,7,5,Permanent water,24340
+Heidelberg,test,8,0,Tree cover,229101
+Heidelberg,test,8,1,Grassland,80051
+Heidelberg,test,8,2,Cropland,96169
+Heidelberg,test,8,3,Built-up,369595
+Heidelberg,test,8,4,Bare vegetation,1532
+Heidelberg,test,8,5,Permanent water,24340
+Heidelberg,test,9,0,Tree cover,229101
+Heidelberg,test,9,1,Grassland,80051
+Heidelberg,test,9,2,Cropland,96169
+Heidelberg,test,9,3,Built-up,369595
+Heidelberg,test,9,4,Bare vegetation,1532
+Heidelberg,test,9,5,Permanent water,24340
+Heidelberg,test,10,0,Tree cover,229101
+Heidelberg,test,10,1,Grassland,80051
+Heidelberg,test,10,2,Cropland,96169
+Heidelberg,test,10,3,Built-up,369595
+Heidelberg,test,10,4,Bare vegetation,1532
+Heidelberg,test,10,5,Permanent water,24340
+Heidelberg,test,11,0,Tree cover,229101
+Heidelberg,test,11,1,Grassland,80051
+Heidelberg,test,11,2,Cropland,96169
+Heidelberg,test,11,3,Built-up,369595
+Heidelberg,test,11,4,Bare vegetation,1532
+Heidelberg,test,11,5,Permanent water,24340
+Heidelberg,test,12,0,Tree cover,229101
+Heidelberg,test,12,1,Grassland,80051
+Heidelberg,test,12,2,Cropland,96169
+Heidelberg,test,12,3,Built-up,369595
+Heidelberg,test,12,4,Bare vegetation,1532
+Heidelberg,test,12,5,Permanent water,24340
+Berlin,train,1,0,Tree cover,172616
+Berlin,train,1,1,Grassland,6999
+Berlin,train,1,2,Cropland,122
+Berlin,train,1,3,Built-up,540238
+Berlin,train,1,4,Bare vegetation,513
+Berlin,train,1,5,Permanent water,11566
+Berlin,train,2,0,Tree cover,172616
+Berlin,train,2,1,Grassland,6999
+Berlin,train,2,2,Cropland,122
+Berlin,train,2,3,Built-up,540238
+Berlin,train,2,4,Bare vegetation,513
+Berlin,train,2,5,Permanent water,11566
+Berlin,train,3,0,Tree cover,172616
+Berlin,train,3,1,Grassland,6999
+Berlin,train,3,2,Cropland,122
+Berlin,train,3,3,Built-up,540238
+Berlin,train,3,4,Bare vegetation,513
+Berlin,train,3,5,Permanent water,11566
+Berlin,train,4,0,Tree cover,172616
+Berlin,train,4,1,Grassland,6999
+Berlin,train,4,2,Cropland,122
+Berlin,train,4,3,Built-up,540238
+Berlin,train,4,4,Bare vegetation,513
+Berlin,train,4,5,Permanent water,11566
+Berlin,train,5,0,Tree cover,172616
+Berlin,train,5,1,Grassland,6999
+Berlin,train,5,2,Cropland,122
+Berlin,train,5,3,Built-up,540238
+Berlin,train,5,4,Bare vegetation,513
+Berlin,train,5,5,Permanent water,11566
+Berlin,train,6,0,Tree cover,172616
+Berlin,train,6,1,Grassland,6999
+Berlin,train,6,2,Cropland,122
+Berlin,train,6,3,Built-up,540238
+Berlin,train,6,4,Bare vegetation,513
+Berlin,train,6,5,Permanent water,11566
+Berlin,train,7,0,Tree cover,172616
+Berlin,train,7,1,Grassland,6999
+Berlin,train,7,2,Cropland,122
+Berlin,train,7,3,Built-up,540238
+Berlin,train,7,4,Bare vegetation,513
+Berlin,train,7,5,Permanent water,11566
+Berlin,train,8,0,Tree cover,172616
+Berlin,train,8,1,Grassland,6999
+Berlin,train,8,2,Cropland,122
+Berlin,train,8,3,Built-up,540238
+Berlin,train,8,4,Bare vegetation,513
+Berlin,train,8,5,Permanent water,11566
+Berlin,train,9,0,Tree cover,172616
+Berlin,train,9,1,Grassland,6999
+Berlin,train,9,2,Cropland,122
+Berlin,train,9,3,Built-up,540238
+Berlin,train,9,4,Bare vegetation,513
+Berlin,train,9,5,Permanent water,11566
+Berlin,train,10,0,Tree cover,172616
+Berlin,train,10,1,Grassland,6999
+Berlin,train,10,2,Cropland,122
+Berlin,train,10,3,Built-up,540238
+Berlin,train,10,4,Bare vegetation,513
+Berlin,train,10,5,Permanent water,11566
+Berlin,train,11,0,Tree cover,172616
+Berlin,train,11,1,Grassland,6999
+Berlin,train,11,2,Cropland,122
+Berlin,train,11,3,Built-up,540238
+Berlin,train,11,4,Bare vegetation,513
+Berlin,train,11,5,Permanent water,11566
+Berlin,train,12,0,Tree cover,172616
+Berlin,train,12,1,Grassland,6999
+Berlin,train,12,2,Cropland,122
+Berlin,train,12,3,Built-up,540238
+Berlin,train,12,4,Bare vegetation,513
+Berlin,train,12,5,Permanent water,11566
+Munich,train,1,0,Tree cover,202463
+Munich,train,1,1,Grassland,12332
+Munich,train,1,2,Cropland,148
+Munich,train,1,3,Built-up,527424
+Munich,train,1,4,Bare vegetation,408
+Munich,train,1,5,Permanent water,13694
+Munich,train,2,0,Tree cover,202463
+Munich,train,2,1,Grassland,12332
+Munich,train,2,2,Cropland,148
+Munich,train,2,3,Built-up,527424
+Munich,train,2,4,Bare vegetation,408
+Munich,train,2,5,Permanent water,13694
+Munich,train,3,0,Tree cover,202463
+Munich,train,3,1,Grassland,12332
+Munich,train,3,2,Cropland,148
+Munich,train,3,3,Built-up,527424
+Munich,train,3,4,Bare vegetation,408
+Munich,train,3,5,Permanent water,13694
+Munich,train,4,0,Tree cover,202463
+Munich,train,4,1,Grassland,12332
+Munich,train,4,2,Cropland,148
+Munich,train,4,3,Built-up,527424
+Munich,train,4,4,Bare vegetation,408
+Munich,train,4,5,Permanent water,13694
+Munich,train,5,0,Tree cover,202463
+Munich,train,5,1,Grassland,12332
+Munich,train,5,2,Cropland,148
+Munich,train,5,3,Built-up,527424
+Munich,train,5,4,Bare vegetation,408
+Munich,train,5,5,Permanent water,13694
+Munich,train,6,0,Tree cover,202463
+Munich,train,6,1,Grassland,12332
+Munich,train,6,2,Cropland,148
+Munich,train,6,3,Built-up,527424
+Munich,train,6,4,Bare vegetation,408
+Munich,train,6,5,Permanent water,13694
+Munich,train,7,0,Tree cover,202463
+Munich,train,7,1,Grassland,12332
+Munich,train,7,2,Cropland,148
+Munich,train,7,3,Built-up,527424
+Munich,train,7,4,Bare vegetation,408
+Munich,train,7,5,Permanent water,13694
+Munich,train,8,0,Tree cover,202463
+Munich,train,8,1,Grassland,12332
+Munich,train,8,2,Cropland,148
+Munich,train,8,3,Built-up,527424
+Munich,train,8,4,Bare vegetation,408
+Munich,train,8,5,Permanent water,13694
+Munich,train,9,0,Tree cover,202463
+Munich,train,9,1,Grassland,12332
+Munich,train,9,2,Cropland,148
+Munich,train,9,3,Built-up,527424
+Munich,train,9,4,Bare vegetation,408
+Munich,train,9,5,Permanent water,13694
+Munich,train,10,0,Tree cover,202463
+Munich,train,10,1,Grassland,12332
+Munich,train,10,2,Cropland,148
+Munich,train,10,3,Built-up,527424
+Munich,train,10,4,Bare vegetation,408
+Munich,train,10,5,Permanent water,13694
+Munich,train,11,0,Tree cover,202463
+Munich,train,11,1,Grassland,12332
+Munich,train,11,2,Cropland,148
+Munich,train,11,3,Built-up,527424
+Munich,train,11,4,Bare vegetation,408
+Munich,train,11,5,Permanent water,13694
+Munich,train,12,0,Tree cover,202463
+Munich,train,12,1,Grassland,12332
+Munich,train,12,2,Cropland,148
+Munich,train,12,3,Built-up,527424
+Munich,train,12,4,Bare vegetation,408
+Munich,train,12,5,Permanent water,13694
+Hamburg,train,1,0,Tree cover,115251
+Hamburg,train,1,1,Grassland,6621
+Hamburg,train,1,2,Cropland,642
+Hamburg,train,1,3,Built-up,463518
+Hamburg,train,1,4,Bare vegetation,1293
+Hamburg,train,1,5,Permanent water,152591
+Hamburg,train,2,0,Tree cover,115251
+Hamburg,train,2,1,Grassland,6621
+Hamburg,train,2,2,Cropland,642
+Hamburg,train,2,3,Built-up,463518
+Hamburg,train,2,4,Bare vegetation,1293
+Hamburg,train,2,5,Permanent water,152591
+Hamburg,train,3,0,Tree cover,115251
+Hamburg,train,3,1,Grassland,6621
+Hamburg,train,3,2,Cropland,642
+Hamburg,train,3,3,Built-up,463518
+Hamburg,train,3,4,Bare vegetation,1293
+Hamburg,train,3,5,Permanent water,152591
+Hamburg,train,4,0,Tree cover,115251
+Hamburg,train,4,1,Grassland,6621
+Hamburg,train,4,2,Cropland,642
+Hamburg,train,4,3,Built-up,463518
+Hamburg,train,4,4,Bare vegetation,1293
+Hamburg,train,4,5,Permanent water,152591
+Hamburg,train,5,0,Tree cover,115251
+Hamburg,train,5,1,Grassland,6621
+Hamburg,train,5,2,Cropland,642
+Hamburg,train,5,3,Built-up,463518
+Hamburg,train,5,4,Bare vegetation,1293
+Hamburg,train,5,5,Permanent water,152591
+Hamburg,train,6,0,Tree cover,115251
+Hamburg,train,6,1,Grassland,6621
+Hamburg,train,6,2,Cropland,642
+Hamburg,train,6,3,Built-up,463518
+Hamburg,train,6,4,Bare vegetation,1293
+Hamburg,train,6,5,Permanent water,152591
+Hamburg,train,7,0,Tree cover,115251
+Hamburg,train,7,1,Grassland,6621
+Hamburg,train,7,2,Cropland,642
+Hamburg,train,7,3,Built-up,463518
+Hamburg,train,7,4,Bare vegetation,1293
+Hamburg,train,7,5,Permanent water,152591
+Hamburg,train,8,0,Tree cover,115251
+Hamburg,train,8,1,Grassland,6621
+Hamburg,train,8,2,Cropland,642
+Hamburg,train,8,3,Built-up,463518
+Hamburg,train,8,4,Bare vegetation,1293
+Hamburg,train,8,5,Permanent water,152591
+Hamburg,train,9,0,Tree cover,115251
+Hamburg,train,9,1,Grassland,6621
+Hamburg,train,9,2,Cropland,642
+Hamburg,train,9,3,Built-up,463518
+Hamburg,train,9,4,Bare vegetation,1293
+Hamburg,train,9,5,Permanent water,152591
+Hamburg,train,10,0,Tree cover,115251
+Hamburg,train,10,1,Grassland,6621
+Hamburg,train,10,2,Cropland,642
+Hamburg,train,10,3,Built-up,463518
+Hamburg,train,10,4,Bare vegetation,1293
+Hamburg,train,10,5,Permanent water,152591
+Hamburg,train,11,0,Tree cover,115251
+Hamburg,train,11,1,Grassland,6621
+Hamburg,train,11,2,Cropland,642
+Hamburg,train,11,3,Built-up,463518
+Hamburg,train,11,4,Bare vegetation,1293
+Hamburg,train,11,5,Permanent water,152591
+Hamburg,train,12,0,Tree cover,115251
+Hamburg,train,12,1,Grassland,6621
+Hamburg,train,12,2,Cropland,642
+Hamburg,train,12,3,Built-up,463518
+Hamburg,train,12,4,Bare vegetation,1293
+Hamburg,train,12,5,Permanent water,152591
+Freiburg,val,1,0,Tree cover,308321
+Freiburg,val,1,1,Grassland,33966
+Freiburg,val,1,2,Cropland,1805
+Freiburg,val,1,3,Built-up,383107
+Freiburg,val,1,4,Bare vegetation,1002
+Freiburg,val,1,5,Permanent water,3830
+Freiburg,val,2,0,Tree cover,308321
+Freiburg,val,2,1,Grassland,33966
+Freiburg,val,2,2,Cropland,1805
+Freiburg,val,2,3,Built-up,383107
+Freiburg,val,2,4,Bare vegetation,1002
+Freiburg,val,2,5,Permanent water,3830
+Freiburg,val,3,0,Tree cover,308321
+Freiburg,val,3,1,Grassland,33966
+Freiburg,val,3,2,Cropland,1805
+Freiburg,val,3,3,Built-up,383107
+Freiburg,val,3,4,Bare vegetation,1002
+Freiburg,val,3,5,Permanent water,3830
+Freiburg,val,4,0,Tree cover,308321
+Freiburg,val,4,1,Grassland,33966
+Freiburg,val,4,2,Cropland,1805
+Freiburg,val,4,3,Built-up,383107
+Freiburg,val,4,4,Bare vegetation,1002
+Freiburg,val,4,5,Permanent water,3830
+Freiburg,val,5,0,Tree cover,308321
+Freiburg,val,5,1,Grassland,33966
+Freiburg,val,5,2,Cropland,1805
+Freiburg,val,5,3,Built-up,383107
+Freiburg,val,5,4,Bare vegetation,1002
+Freiburg,val,5,5,Permanent water,3830
+Freiburg,val,6,0,Tree cover,308321
+Freiburg,val,6,1,Grassland,33966
+Freiburg,val,6,2,Cropland,1805
+Freiburg,val,6,3,Built-up,383107
+Freiburg,val,6,4,Bare vegetation,1002
+Freiburg,val,6,5,Permanent water,3830
+Freiburg,val,7,0,Tree cover,308321
+Freiburg,val,7,1,Grassland,33966
+Freiburg,val,7,2,Cropland,1805
+Freiburg,val,7,3,Built-up,383107
+Freiburg,val,7,4,Bare vegetation,1002
+Freiburg,val,7,5,Permanent water,3830
+Freiburg,val,8,0,Tree cover,308321
+Freiburg,val,8,1,Grassland,33966
+Freiburg,val,8,2,Cropland,1805
+Freiburg,val,8,3,Built-up,383107
+Freiburg,val,8,4,Bare vegetation,1002
+Freiburg,val,8,5,Permanent water,3830
+Freiburg,val,9,0,Tree cover,308321
+Freiburg,val,9,1,Grassland,33966
+Freiburg,val,9,2,Cropland,1805
+Freiburg,val,9,3,Built-up,383107
+Freiburg,val,9,4,Bare vegetation,1002
+Freiburg,val,9,5,Permanent water,3830
+Freiburg,val,10,0,Tree cover,308321
+Freiburg,val,10,1,Grassland,33966
+Freiburg,val,10,2,Cropland,1805
+Freiburg,val,10,3,Built-up,383107
+Freiburg,val,10,4,Bare vegetation,1002
+Freiburg,val,10,5,Permanent water,3830
+Freiburg,val,11,0,Tree cover,308321
+Freiburg,val,11,1,Grassland,33966
+Freiburg,val,11,2,Cropland,1805
+Freiburg,val,11,3,Built-up,383107
+Freiburg,val,11,4,Bare vegetation,1002
+Freiburg,val,11,5,Permanent water,3830
+Freiburg,val,12,0,Tree cover,308321
+Freiburg,val,12,1,Grassland,33966
+Freiburg,val,12,2,Cropland,1805
+Freiburg,val,12,3,Built-up,383107
+Freiburg,val,12,4,Bare vegetation,1002
+Freiburg,val,12,5,Permanent water,3830
+Bengaluru,train,1,0,Tree cover,192084
+Bengaluru,train,1,1,Grassland,9152
+Bengaluru,train,1,2,Cropland,7161
+Bengaluru,train,1,3,Built-up,548803
+Bengaluru,train,1,4,Bare vegetation,5046
+Bengaluru,train,1,5,Permanent water,86
+Bengaluru,train,2,0,Tree cover,192084
+Bengaluru,train,2,1,Grassland,9152
+Bengaluru,train,2,2,Cropland,7161
+Bengaluru,train,2,3,Built-up,548803
+Bengaluru,train,2,4,Bare vegetation,5046
+Bengaluru,train,2,5,Permanent water,86
+Bengaluru,train,3,0,Tree cover,192084
+Bengaluru,train,3,1,Grassland,9152
+Bengaluru,train,3,2,Cropland,7161
+Bengaluru,train,3,3,Built-up,548803
+Bengaluru,train,3,4,Bare vegetation,5046
+Bengaluru,train,3,5,Permanent water,86
+Bengaluru,train,4,0,Tree cover,192084
+Bengaluru,train,4,1,Grassland,9152
+Bengaluru,train,4,2,Cropland,7161
+Bengaluru,train,4,3,Built-up,548803
+Bengaluru,train,4,4,Bare vegetation,5046
+Bengaluru,train,4,5,Permanent water,86
+Bengaluru,train,5,0,Tree cover,192084
+Bengaluru,train,5,1,Grassland,9152
+Bengaluru,train,5,2,Cropland,7161
+Bengaluru,train,5,3,Built-up,548803
+Bengaluru,train,5,4,Bare vegetation,5046
+Bengaluru,train,5,5,Permanent water,86
+Bengaluru,train,6,0,Tree cover,192084
+Bengaluru,train,6,1,Grassland,9152
+Bengaluru,train,6,2,Cropland,7161
+Bengaluru,train,6,3,Built-up,548803
+Bengaluru,train,6,4,Bare vegetation,5046
+Bengaluru,train,6,5,Permanent water,86
+Bengaluru,train,7,0,Tree cover,192084
+Bengaluru,train,7,1,Grassland,9152
+Bengaluru,train,7,2,Cropland,7161
+Bengaluru,train,7,3,Built-up,548803
+Bengaluru,train,7,4,Bare vegetation,5046
+Bengaluru,train,7,5,Permanent water,86
+Bengaluru,train,8,0,Tree cover,192084
+Bengaluru,train,8,1,Grassland,9152
+Bengaluru,train,8,2,Cropland,7161
+Bengaluru,train,8,3,Built-up,548803
+Bengaluru,train,8,4,Bare vegetation,5046
+Bengaluru,train,8,5,Permanent water,86
+Bengaluru,train,9,0,Tree cover,192084
+Bengaluru,train,9,1,Grassland,9152
+Bengaluru,train,9,2,Cropland,7161
+Bengaluru,train,9,3,Built-up,548803
+Bengaluru,train,9,4,Bare vegetation,5046
+Bengaluru,train,9,5,Permanent water,86
+Bengaluru,train,10,0,Tree cover,192084
+Bengaluru,train,10,1,Grassland,9152
+Bengaluru,train,10,2,Cropland,7161
+Bengaluru,train,10,3,Built-up,548803
+Bengaluru,train,10,4,Bare vegetation,5046
+Bengaluru,train,10,5,Permanent water,86
+Bengaluru,train,11,0,Tree cover,192084
+Bengaluru,train,11,1,Grassland,9152
+Bengaluru,train,11,2,Cropland,7161
+Bengaluru,train,11,3,Built-up,548803
+Bengaluru,train,11,4,Bare vegetation,5046
+Bengaluru,train,11,5,Permanent water,86
+Bengaluru,train,12,0,Tree cover,192084
+Bengaluru,train,12,1,Grassland,9152
+Bengaluru,train,12,2,Cropland,7161
+Bengaluru,train,12,3,Built-up,548803
+Bengaluru,train,12,4,Bare vegetation,5046
+Bengaluru,train,12,5,Permanent water,86
+Singapore,val,1,0,Tree cover,459375
+Singapore,val,1,1,Grassland,81627
+Singapore,val,1,2,Cropland,302
+Singapore,val,1,3,Built-up,159655
+Singapore,val,1,4,Bare vegetation,2265
+Singapore,val,1,5,Permanent water,99548
+Singapore,val,2,0,Tree cover,459375
+Singapore,val,2,1,Grassland,81627
+Singapore,val,2,2,Cropland,302
+Singapore,val,2,3,Built-up,159655
+Singapore,val,2,4,Bare vegetation,2265
+Singapore,val,2,5,Permanent water,99548
+Singapore,val,3,0,Tree cover,459375
+Singapore,val,3,1,Grassland,81627
+Singapore,val,3,2,Cropland,302
+Singapore,val,3,3,Built-up,159655
+Singapore,val,3,4,Bare vegetation,2265
+Singapore,val,3,5,Permanent water,99548
+Singapore,val,4,0,Tree cover,459375
+Singapore,val,4,1,Grassland,81627
+Singapore,val,4,2,Cropland,302
+Singapore,val,4,3,Built-up,159655
+Singapore,val,4,4,Bare vegetation,2265
+Singapore,val,4,5,Permanent water,99548
+Singapore,val,5,0,Tree cover,459375
+Singapore,val,5,1,Grassland,81627
+Singapore,val,5,2,Cropland,302
+Singapore,val,5,3,Built-up,159655
+Singapore,val,5,4,Bare vegetation,2265
+Singapore,val,5,5,Permanent water,99548
+Singapore,val,6,0,Tree cover,459375
+Singapore,val,6,1,Grassland,81627
+Singapore,val,6,2,Cropland,302
+Singapore,val,6,3,Built-up,159655
+Singapore,val,6,4,Bare vegetation,2265
+Singapore,val,6,5,Permanent water,99548
+Singapore,val,7,0,Tree cover,459375
+Singapore,val,7,1,Grassland,81627
+Singapore,val,7,2,Cropland,302
+Singapore,val,7,3,Built-up,159655
+Singapore,val,7,4,Bare vegetation,2265
+Singapore,val,7,5,Permanent water,99548
+Singapore,val,8,0,Tree cover,459375
+Singapore,val,8,1,Grassland,81627
+Singapore,val,8,2,Cropland,302
+Singapore,val,8,3,Built-up,159655
+Singapore,val,8,4,Bare vegetation,2265
+Singapore,val,8,5,Permanent water,99548
+Singapore,val,9,0,Tree cover,459375
+Singapore,val,9,1,Grassland,81627
+Singapore,val,9,2,Cropland,302
+Singapore,val,9,3,Built-up,159655
+Singapore,val,9,4,Bare vegetation,2265
+Singapore,val,9,5,Permanent water,99548
+Singapore,val,10,0,Tree cover,459375
+Singapore,val,10,1,Grassland,81627
+Singapore,val,10,2,Cropland,302
+Singapore,val,10,3,Built-up,159655
+Singapore,val,10,4,Bare vegetation,2265
+Singapore,val,10,5,Permanent water,99548
+Singapore,val,11,0,Tree cover,459375
+Singapore,val,11,1,Grassland,81627
+Singapore,val,11,2,Cropland,302
+Singapore,val,11,3,Built-up,159655
+Singapore,val,11,4,Bare vegetation,2265
+Singapore,val,11,5,Permanent water,99548
+Singapore,val,12,0,Tree cover,459375
+Singapore,val,12,1,Grassland,81627
+Singapore,val,12,2,Cropland,302
+Singapore,val,12,3,Built-up,159655
+Singapore,val,12,4,Bare vegetation,2265
+Singapore,val,12,5,Permanent water,99548
+Nairobi,test,1,0,Tree cover,138652
+Nairobi,test,1,1,Grassland,32526
+Nairobi,test,1,2,Cropland,8072
+Nairobi,test,1,3,Built-up,540237
+Nairobi,test,1,4,Bare vegetation,11470
+Nairobi,test,1,5,Permanent water,574
+Nairobi,test,2,0,Tree cover,138652
+Nairobi,test,2,1,Grassland,32526
+Nairobi,test,2,2,Cropland,8072
+Nairobi,test,2,3,Built-up,540237
+Nairobi,test,2,4,Bare vegetation,11470
+Nairobi,test,2,5,Permanent water,574
+Nairobi,test,3,0,Tree cover,138652
+Nairobi,test,3,1,Grassland,32526
+Nairobi,test,3,2,Cropland,8072
+Nairobi,test,3,3,Built-up,540237
+Nairobi,test,3,4,Bare vegetation,11470
+Nairobi,test,3,5,Permanent water,574
+Nairobi,test,4,0,Tree cover,138652
+Nairobi,test,4,1,Grassland,32526
+Nairobi,test,4,2,Cropland,8072
+Nairobi,test,4,3,Built-up,540237
+Nairobi,test,4,4,Bare vegetation,11470
+Nairobi,test,4,5,Permanent water,574
+Nairobi,test,5,0,Tree cover,138652
+Nairobi,test,5,1,Grassland,32526
+Nairobi,test,5,2,Cropland,8072
+Nairobi,test,5,3,Built-up,540237
+Nairobi,test,5,4,Bare vegetation,11470
+Nairobi,test,5,5,Permanent water,574
+Nairobi,test,6,0,Tree cover,138652
+Nairobi,test,6,1,Grassland,32526
+Nairobi,test,6,2,Cropland,8072
+Nairobi,test,6,3,Built-up,540237
+Nairobi,test,6,4,Bare vegetation,11470
+Nairobi,test,6,5,Permanent water,574
+Nairobi,test,7,0,Tree cover,138652
+Nairobi,test,7,1,Grassland,32526
+Nairobi,test,7,2,Cropland,8072
+Nairobi,test,7,3,Built-up,540237
+Nairobi,test,7,4,Bare vegetation,11470
+Nairobi,test,7,5,Permanent water,574
+Nairobi,test,8,0,Tree cover,138652
+Nairobi,test,8,1,Grassland,32526
+Nairobi,test,8,2,Cropland,8072
+Nairobi,test,8,3,Built-up,540237
+Nairobi,test,8,4,Bare vegetation,11470
+Nairobi,test,8,5,Permanent water,574
+Nairobi,test,9,0,Tree cover,138652
+Nairobi,test,9,1,Grassland,32526
+Nairobi,test,9,2,Cropland,8072
+Nairobi,test,9,3,Built-up,540237
+Nairobi,test,9,4,Bare vegetation,11470
+Nairobi,test,9,5,Permanent water,574
+Nairobi,test,10,0,Tree cover,138652
+Nairobi,test,10,1,Grassland,32526
+Nairobi,test,10,2,Cropland,8072
+Nairobi,test,10,3,Built-up,540237
+Nairobi,test,10,4,Bare vegetation,11470
+Nairobi,test,10,5,Permanent water,574
+Nairobi,test,11,0,Tree cover,138652
+Nairobi,test,11,1,Grassland,32526
+Nairobi,test,11,2,Cropland,8072
+Nairobi,test,11,3,Built-up,540237
+Nairobi,test,11,4,Bare vegetation,11470
+Nairobi,test,11,5,Permanent water,574
+Nairobi,test,12,0,Tree cover,138652
+Nairobi,test,12,1,Grassland,32526
+Nairobi,test,12,2,Cropland,8072
+Nairobi,test,12,3,Built-up,540237
+Nairobi,test,12,4,Bare vegetation,11470
+Nairobi,test,12,5,Permanent water,574
+Cairo,train,1,0,Tree cover,28715
+Cairo,train,1,1,Grassland,4367
+Cairo,train,1,2,Cropland,594
+Cairo,train,1,3,Built-up,619658
+Cairo,train,1,4,Bare vegetation,2207
+Cairo,train,1,5,Permanent water,75425
+Cairo,train,2,0,Tree cover,28715
+Cairo,train,2,1,Grassland,4367
+Cairo,train,2,2,Cropland,594
+Cairo,train,2,3,Built-up,619658
+Cairo,train,2,4,Bare vegetation,2207
+Cairo,train,2,5,Permanent water,75425
+Cairo,train,3,0,Tree cover,28715
+Cairo,train,3,1,Grassland,4367
+Cairo,train,3,2,Cropland,594
+Cairo,train,3,3,Built-up,619658
+Cairo,train,3,4,Bare vegetation,2207
+Cairo,train,3,5,Permanent water,75425
+Cairo,train,4,0,Tree cover,28715
+Cairo,train,4,1,Grassland,4367
+Cairo,train,4,2,Cropland,594
+Cairo,train,4,3,Built-up,619658
+Cairo,train,4,4,Bare vegetation,2207
+Cairo,train,4,5,Permanent water,75425
+Cairo,train,5,0,Tree cover,28715
+Cairo,train,5,1,Grassland,4367
+Cairo,train,5,2,Cropland,594
+Cairo,train,5,3,Built-up,619658
+Cairo,train,5,4,Bare vegetation,2207
+Cairo,train,5,5,Permanent water,75425
+Cairo,train,6,0,Tree cover,28715
+Cairo,train,6,1,Grassland,4367
+Cairo,train,6,2,Cropland,594
+Cairo,train,6,3,Built-up,619658
+Cairo,train,6,4,Bare vegetation,2207
+Cairo,train,6,5,Permanent water,75425
+Cairo,train,7,0,Tree cover,28715
+Cairo,train,7,1,Grassland,4367
+Cairo,train,7,2,Cropland,594
+Cairo,train,7,3,Built-up,619658
+Cairo,train,7,4,Bare vegetation,2207
+Cairo,train,7,5,Permanent water,75425
+Cairo,train,8,0,Tree cover,28715
+Cairo,train,8,1,Grassland,4367
+Cairo,train,8,2,Cropland,594
+Cairo,train,8,3,Built-up,619658
+Cairo,train,8,4,Bare vegetation,2207
+Cairo,train,8,5,Permanent water,75425
+Cairo,train,9,0,Tree cover,28715
+Cairo,train,9,1,Grassland,4367
+Cairo,train,9,2,Cropland,594
+Cairo,train,9,3,Built-up,619658
+Cairo,train,9,4,Bare vegetation,2207
+Cairo,train,9,5,Permanent water,75425
+Cairo,train,10,0,Tree cover,28715
+Cairo,train,10,1,Grassland,4367
+Cairo,train,10,2,Cropland,594
+Cairo,train,10,3,Built-up,619658
+Cairo,train,10,4,Bare vegetation,2207
+Cairo,train,10,5,Permanent water,75425
+Cairo,train,11,0,Tree cover,28715
+Cairo,train,11,1,Grassland,4367
+Cairo,train,11,2,Cropland,594
+Cairo,train,11,3,Built-up,619658
+Cairo,train,11,4,Bare vegetation,2207
+Cairo,train,11,5,Permanent water,75425
+Cairo,train,12,0,Tree cover,28715
+Cairo,train,12,1,Grassland,4367
+Cairo,train,12,2,Cropland,594
+Cairo,train,12,3,Built-up,619658
+Cairo,train,12,4,Bare vegetation,2207
+Cairo,train,12,5,Permanent water,75425
+New York,train,1,0,Tree cover,58074
+New York,train,1,1,Grassland,4514
+New York,train,1,2,Cropland,21
+New York,train,1,3,Built-up,377808
+New York,train,1,4,Bare vegetation,4739
+New York,train,1,5,Permanent water,310202
+New York,train,2,0,Tree cover,58074
+New York,train,2,1,Grassland,4514
+New York,train,2,2,Cropland,21
+New York,train,2,3,Built-up,377808
+New York,train,2,4,Bare vegetation,4739
+New York,train,2,5,Permanent water,310202
+New York,train,3,0,Tree cover,58074
+New York,train,3,1,Grassland,4514
+New York,train,3,2,Cropland,21
+New York,train,3,3,Built-up,377808
+New York,train,3,4,Bare vegetation,4739
+New York,train,3,5,Permanent water,310202
+New York,train,4,0,Tree cover,58074
+New York,train,4,1,Grassland,4514
+New York,train,4,2,Cropland,21
+New York,train,4,3,Built-up,377808
+New York,train,4,4,Bare vegetation,4739
+New York,train,4,5,Permanent water,310202
+New York,train,5,0,Tree cover,58074
+New York,train,5,1,Grassland,4514
+New York,train,5,2,Cropland,21
+New York,train,5,3,Built-up,377808
+New York,train,5,4,Bare vegetation,4739
+New York,train,5,5,Permanent water,310202
+New York,train,6,0,Tree cover,58074
+New York,train,6,1,Grassland,4514
+New York,train,6,2,Cropland,21
+New York,train,6,3,Built-up,377808
+New York,train,6,4,Bare vegetation,4739
+New York,train,6,5,Permanent water,310202
+New York,train,7,0,Tree cover,58074
+New York,train,7,1,Grassland,4514
+New York,train,7,2,Cropland,21
+New York,train,7,3,Built-up,377808
+New York,train,7,4,Bare vegetation,4739
+New York,train,7,5,Permanent water,310202
+New York,train,8,0,Tree cover,58074
+New York,train,8,1,Grassland,4514
+New York,train,8,2,Cropland,21
+New York,train,8,3,Built-up,377808
+New York,train,8,4,Bare vegetation,4739
+New York,train,8,5,Permanent water,310202
+New York,train,9,0,Tree cover,58074
+New York,train,9,1,Grassland,4514
+New York,train,9,2,Cropland,21
+New York,train,9,3,Built-up,377808
+New York,train,9,4,Bare vegetation,4739
+New York,train,9,5,Permanent water,310202
+New York,train,10,0,Tree cover,58074
+New York,train,10,1,Grassland,4514
+New York,train,10,2,Cropland,21
+New York,train,10,3,Built-up,377808
+New York,train,10,4,Bare vegetation,4739
+New York,train,10,5,Permanent water,310202
+New York,train,11,0,Tree cover,58074
+New York,train,11,1,Grassland,4514
+New York,train,11,2,Cropland,21
+New York,train,11,3,Built-up,377808
+New York,train,11,4,Bare vegetation,4739
+New York,train,11,5,Permanent water,310202
+New York,train,12,0,Tree cover,58074
+New York,train,12,1,Grassland,4514
+New York,train,12,2,Cropland,21
+New York,train,12,3,Built-up,377808
+New York,train,12,4,Bare vegetation,4739
+New York,train,12,5,Permanent water,310202
+Sao Paulo,train,1,0,Tree cover,49715
+Sao Paulo,train,1,1,Grassland,2578
+Sao Paulo,train,1,2,Cropland,8
+Sao Paulo,train,1,3,Built-up,701724
+Sao Paulo,train,1,4,Bare vegetation,1448
+Sao Paulo,train,1,5,Permanent water,336
+Sao Paulo,train,2,0,Tree cover,49715
+Sao Paulo,train,2,1,Grassland,2578
+Sao Paulo,train,2,2,Cropland,8
+Sao Paulo,train,2,3,Built-up,701724
+Sao Paulo,train,2,4,Bare vegetation,1448
+Sao Paulo,train,2,5,Permanent water,336
+Sao Paulo,train,3,0,Tree cover,49715
+Sao Paulo,train,3,1,Grassland,2578
+Sao Paulo,train,3,2,Cropland,8
+Sao Paulo,train,3,3,Built-up,701724
+Sao Paulo,train,3,4,Bare vegetation,1448
+Sao Paulo,train,3,5,Permanent water,336
+Sao Paulo,train,4,0,Tree cover,49715
+Sao Paulo,train,4,1,Grassland,2578
+Sao Paulo,train,4,2,Cropland,8
+Sao Paulo,train,4,3,Built-up,701724
+Sao Paulo,train,4,4,Bare vegetation,1448
+Sao Paulo,train,4,5,Permanent water,336
+Sao Paulo,train,5,0,Tree cover,49715
+Sao Paulo,train,5,1,Grassland,2578
+Sao Paulo,train,5,2,Cropland,8
+Sao Paulo,train,5,3,Built-up,701724
+Sao Paulo,train,5,4,Bare vegetation,1448
+Sao Paulo,train,5,5,Permanent water,336
+Sao Paulo,train,6,0,Tree cover,49715
+Sao Paulo,train,6,1,Grassland,2578
+Sao Paulo,train,6,2,Cropland,8
+Sao Paulo,train,6,3,Built-up,701724
+Sao Paulo,train,6,4,Bare vegetation,1448
+Sao Paulo,train,6,5,Permanent water,336
+Sao Paulo,train,7,0,Tree cover,49715
+Sao Paulo,train,7,1,Grassland,2578
+Sao Paulo,train,7,2,Cropland,8
+Sao Paulo,train,7,3,Built-up,701724
+Sao Paulo,train,7,4,Bare vegetation,1448
+Sao Paulo,train,7,5,Permanent water,336
+Sao Paulo,train,8,0,Tree cover,49715
+Sao Paulo,train,8,1,Grassland,2578
+Sao Paulo,train,8,2,Cropland,8
+Sao Paulo,train,8,3,Built-up,701724
+Sao Paulo,train,8,4,Bare vegetation,1448
+Sao Paulo,train,8,5,Permanent water,336
+Sao Paulo,train,9,0,Tree cover,49715
+Sao Paulo,train,9,1,Grassland,2578
+Sao Paulo,train,9,2,Cropland,8
+Sao Paulo,train,9,3,Built-up,701724
+Sao Paulo,train,9,4,Bare vegetation,1448
+Sao Paulo,train,9,5,Permanent water,336
+Sao Paulo,train,10,0,Tree cover,49715
+Sao Paulo,train,10,1,Grassland,2578
+Sao Paulo,train,10,2,Cropland,8
+Sao Paulo,train,10,3,Built-up,701724
+Sao Paulo,train,10,4,Bare vegetation,1448
+Sao Paulo,train,10,5,Permanent water,336
+Sao Paulo,train,11,0,Tree cover,49715
+Sao Paulo,train,11,1,Grassland,2578
+Sao Paulo,train,11,2,Cropland,8
+Sao Paulo,train,11,3,Built-up,701724
+Sao Paulo,train,11,4,Bare vegetation,1448
+Sao Paulo,train,11,5,Permanent water,336
+Sao Paulo,train,12,0,Tree cover,49715
+Sao Paulo,train,12,1,Grassland,2578
+Sao Paulo,train,12,2,Cropland,8
+Sao Paulo,train,12,3,Built-up,701724
+Sao Paulo,train,12,4,Bare vegetation,1448
+Sao Paulo,train,12,5,Permanent water,336
+Sydney,test,1,0,Tree cover,103115
+Sydney,test,1,1,Grassland,27059
+Sydney,test,1,2,Cropland,0
+Sydney,test,1,3,Built-up,360031
+Sydney,test,1,4,Bare vegetation,10249
+Sydney,test,1,5,Permanent water,224126
+Sydney,test,2,0,Tree cover,103115
+Sydney,test,2,1,Grassland,27059
+Sydney,test,2,2,Cropland,0
+Sydney,test,2,3,Built-up,360031
+Sydney,test,2,4,Bare vegetation,10249
+Sydney,test,2,5,Permanent water,224126
+Sydney,test,3,0,Tree cover,103115
+Sydney,test,3,1,Grassland,27059
+Sydney,test,3,2,Cropland,0
+Sydney,test,3,3,Built-up,360031
+Sydney,test,3,4,Bare vegetation,10249
+Sydney,test,3,5,Permanent water,224126
+Sydney,test,4,0,Tree cover,103115
+Sydney,test,4,1,Grassland,27059
+Sydney,test,4,2,Cropland,0
+Sydney,test,4,3,Built-up,360031
+Sydney,test,4,4,Bare vegetation,10249
+Sydney,test,4,5,Permanent water,224126
+Sydney,test,5,0,Tree cover,103115
+Sydney,test,5,1,Grassland,27059
+Sydney,test,5,2,Cropland,0
+Sydney,test,5,3,Built-up,360031
+Sydney,test,5,4,Bare vegetation,10249
+Sydney,test,5,5,Permanent water,224126
+Sydney,test,6,0,Tree cover,103115
+Sydney,test,6,1,Grassland,27059
+Sydney,test,6,2,Cropland,0
+Sydney,test,6,3,Built-up,360031
+Sydney,test,6,4,Bare vegetation,10249
+Sydney,test,6,5,Permanent water,224126
+Sydney,test,7,0,Tree cover,103115
+Sydney,test,7,1,Grassland,27059
+Sydney,test,7,2,Cropland,0
+Sydney,test,7,3,Built-up,360031
+Sydney,test,7,4,Bare vegetation,10249
+Sydney,test,7,5,Permanent water,224126
+Sydney,test,8,0,Tree cover,103115
+Sydney,test,8,1,Grassland,27059
+Sydney,test,8,2,Cropland,0
+Sydney,test,8,3,Built-up,360031
+Sydney,test,8,4,Bare vegetation,10249
+Sydney,test,8,5,Permanent water,224126
+Sydney,test,9,0,Tree cover,103115
+Sydney,test,9,1,Grassland,27059
+Sydney,test,9,2,Cropland,0
+Sydney,test,9,3,Built-up,360031
+Sydney,test,9,4,Bare vegetation,10249
+Sydney,test,9,5,Permanent water,224126
+Sydney,test,10,0,Tree cover,103115
+Sydney,test,10,1,Grassland,27059
+Sydney,test,10,2,Cropland,0
+Sydney,test,10,3,Built-up,360031
+Sydney,test,10,4,Bare vegetation,10249
+Sydney,test,10,5,Permanent water,224126
+Sydney,test,11,0,Tree cover,103115
+Sydney,test,11,1,Grassland,27059
+Sydney,test,11,2,Cropland,0
+Sydney,test,11,3,Built-up,360031
+Sydney,test,11,4,Bare vegetation,10249
+Sydney,test,11,5,Permanent water,224126
+Sydney,test,12,0,Tree cover,103115
+Sydney,test,12,1,Grassland,27059
+Sydney,test,12,2,Cropland,0
+Sydney,test,12,3,Built-up,360031
+Sydney,test,12,4,Bare vegetation,10249
+Sydney,test,12,5,Permanent water,224126

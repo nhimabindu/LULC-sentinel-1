@@ -1,0 +1,13 @@
+City,Month,Input File,Output File,Height,Width,CRS,Resolution,Valid Coverage (%),Valid Pixels,Pixel Area (ha)
+Berlin,1,berlin_2025_01.tif,berlin_2025_01_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,0.01
+Berlin,2,berlin_2025_02.tif,berlin_2025_02_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,0.01
+Berlin,3,berlin_2025_03.tif,berlin_2025_03_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,0.01
+Berlin,4,berlin_2025_04.tif,berlin_2025_04_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,0.01
+Berlin,5,berlin_2025_05.tif,berlin_2025_05_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,0.01
+Berlin,6,berlin_2025_06.tif,berlin_2025_06_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,0.01
+Berlin,7,berlin_2025_07.tif,berlin_2025_07_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,0.01
+Berlin,8,berlin_2025_08.tif,berlin_2025_08_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,0.01
+Berlin,9,berlin_2025_09.tif,berlin_2025_09_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,0.01
+Berlin,10,berlin_2025_10.tif,berlin_2025_10_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,0.01
+Berlin,11,berlin_2025_11.tif,berlin_2025_11_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,0.01
+Berlin,12,berlin_2025_12.tif,berlin_2025_12_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,0.01

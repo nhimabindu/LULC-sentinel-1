@@ -1,0 +1,13 @@
+City,Files Readable,Missing Files,Read Errors,Two Bands,Consistent Monthly Grid,Minimum Valid Coverage (%),Maximum Valid Coverage (%)
+Berlin,12,0,0,True,True,95.748,95.748
+Munich,12,0,0,True,True,93.585,93.585
+Hamburg,12,0,0,True,True,97.174,97.174
+Bengaluru,12,0,0,True,True,97.737,97.737
+New York,12,0,0,True,True,97.69,97.69
+Sao Paulo,12,0,0,True,True,97.515,97.515
+Cairo,12,0,0,True,True,96.85,96.85
+Freiburg,12,0,0,True,True,96.991,96.991
+Singapore,12,0,0,True,True,99.6,99.6
+Heidelberg,12,0,0,True,True,99.207,99.207
+Nairobi,12,0,0,True,True,99.6,99.6
+Sydney,12,0,0,True,True,96.277,96.277

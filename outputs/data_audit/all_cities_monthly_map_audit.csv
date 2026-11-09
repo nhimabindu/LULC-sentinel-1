@@ -1,0 +1,145 @@
+City,Split,Month,Input,Prediction,Height,Width,CRS,Resolution,Valid Coverage (%),Valid Pixels,NoData Correct,Valid Classes,Spatial Match
+Berlin,Training,1,berlin_2025_01.tif,berlin_2025_01_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,True,True,True
+Berlin,Training,2,berlin_2025_02.tif,berlin_2025_02_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,True,True,True
+Berlin,Training,3,berlin_2025_03.tif,berlin_2025_03_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,True,True,True
+Berlin,Training,4,berlin_2025_04.tif,berlin_2025_04_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,True,True,True
+Berlin,Training,5,berlin_2025_05.tif,berlin_2025_05_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,True,True,True
+Berlin,Training,6,berlin_2025_06.tif,berlin_2025_06_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,True,True,True
+Berlin,Training,7,berlin_2025_07.tif,berlin_2025_07_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,True,True,True
+Berlin,Training,8,berlin_2025_08.tif,berlin_2025_08_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,True,True,True
+Berlin,Training,9,berlin_2025_09.tif,berlin_2025_09_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,True,True,True
+Berlin,Training,10,berlin_2025_10.tif,berlin_2025_10_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,True,True,True
+Berlin,Training,11,berlin_2025_11.tif,berlin_2025_11_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,True,True,True
+Berlin,Training,12,berlin_2025_12.tif,berlin_2025_12_lulc.tif,513,510,EPSG:32633,"(10.0, 10.0)",95.74781179528341,250505,True,True,True
+Munich,Training,1,munich_2025_01.tif,munich_2025_01_lulc.tif,517,516,EPSG:32632,"(10.0, 10.0)",93.5851588622494,249659,True,True,True
+Munich,Training,2,munich_2025_02.tif,munich_2025_02_lulc.tif,517,516,EPSG:32632,"(10.0, 10.0)",93.5851588622494,249659,True,True,True
+Munich,Training,3,munich_2025_03.tif,munich_2025_03_lulc.tif,517,516,EPSG:32632,"(10.0, 10.0)",93.5851588622494,249659,True,True,True
+Munich,Training,4,munich_2025_04.tif,munich_2025_04_lulc.tif,517,516,EPSG:32632,"(10.0, 10.0)",93.5851588622494,249659,True,True,True
+Munich,Training,5,munich_2025_05.tif,munich_2025_05_lulc.tif,517,516,EPSG:32632,"(10.0, 10.0)",93.5851588622494,249659,True,True,True
+Munich,Training,6,munich_2025_06.tif,munich_2025_06_lulc.tif,517,516,EPSG:32632,"(10.0, 10.0)",93.5851588622494,249659,True,True,True
+Munich,Training,7,munich_2025_07.tif,munich_2025_07_lulc.tif,517,516,EPSG:32632,"(10.0, 10.0)",93.5851588622494,249659,True,True,True
+Munich,Training,8,munich_2025_08.tif,munich_2025_08_lulc.tif,517,516,EPSG:32632,"(10.0, 10.0)",93.5851588622494,249659,True,True,True
+Munich,Training,9,munich_2025_09.tif,munich_2025_09_lulc.tif,517,516,EPSG:32632,"(10.0, 10.0)",93.5851588622494,249659,True,True,True
+Munich,Training,10,munich_2025_10.tif,munich_2025_10_lulc.tif,517,516,EPSG:32632,"(10.0, 10.0)",93.5851588622494,249659,True,True,True
+Munich,Training,11,munich_2025_11.tif,munich_2025_11_lulc.tif,517,516,EPSG:32632,"(10.0, 10.0)",93.5851588622494,249659,True,True,True
+Munich,Training,12,munich_2025_12.tif,munich_2025_12_lulc.tif,517,516,EPSG:32632,"(10.0, 10.0)",93.5851588622494,249659,True,True,True
+Hamburg,Training,1,hamburg_2025_01.tif,hamburg_2025_01_lulc.tif,509,506,EPSG:32632,"(10.0, 10.0)",97.17418483114221,250276,True,True,True
+Hamburg,Training,2,hamburg_2025_02.tif,hamburg_2025_02_lulc.tif,509,506,EPSG:32632,"(10.0, 10.0)",97.17418483114221,250276,True,True,True
+Hamburg,Training,3,hamburg_2025_03.tif,hamburg_2025_03_lulc.tif,509,506,EPSG:32632,"(10.0, 10.0)",97.17418483114221,250276,True,True,True
+Hamburg,Training,4,hamburg_2025_04.tif,hamburg_2025_04_lulc.tif,509,506,EPSG:32632,"(10.0, 10.0)",97.17418483114221,250276,True,True,True
+Hamburg,Training,5,hamburg_2025_05.tif,hamburg_2025_05_lulc.tif,509,506,EPSG:32632,"(10.0, 10.0)",97.17418483114221,250276,True,True,True
+Hamburg,Training,6,hamburg_2025_06.tif,hamburg_2025_06_lulc.tif,509,506,EPSG:32632,"(10.0, 10.0)",97.17418483114221,250276,True,True,True
+Hamburg,Training,7,hamburg_2025_07.tif,hamburg_2025_07_lulc.tif,509,506,EPSG:32632,"(10.0, 10.0)",97.17418483114221,250276,True,True,True
+Hamburg,Training,8,hamburg_2025_08.tif,hamburg_2025_08_lulc.tif,509,506,EPSG:32632,"(10.0, 10.0)",97.17418483114221,250276,True,True,True
+Hamburg,Training,9,hamburg_2025_09.tif,hamburg_2025_09_lulc.tif,509,506,EPSG:32632,"(10.0, 10.0)",97.17418483114221,250276,True,True,True
+Hamburg,Training,10,hamburg_2025_10.tif,hamburg_2025_10_lulc.tif,509,506,EPSG:32632,"(10.0, 10.0)",97.17418483114221,250276,True,True,True
+Hamburg,Training,11,hamburg_2025_11.tif,hamburg_2025_11_lulc.tif,509,506,EPSG:32632,"(10.0, 10.0)",97.17418483114221,250276,True,True,True
+Hamburg,Training,12,hamburg_2025_12.tif,hamburg_2025_12_lulc.tif,509,506,EPSG:32632,"(10.0, 10.0)",97.17418483114221,250276,True,True,True
+Bengaluru,Training,1,bengaluru_2025_01.tif,bengaluru_2025_01_lulc.tif,505,504,EPSG:32643,"(10.0, 10.0)",97.73652365236524,248759,True,True,True
+Bengaluru,Training,2,bengaluru_2025_02.tif,bengaluru_2025_02_lulc.tif,505,504,EPSG:32643,"(10.0, 10.0)",97.73652365236524,248759,True,True,True
+Bengaluru,Training,3,bengaluru_2025_03.tif,bengaluru_2025_03_lulc.tif,505,504,EPSG:32643,"(10.0, 10.0)",97.73652365236524,248759,True,True,True
+Bengaluru,Training,4,bengaluru_2025_04.tif,bengaluru_2025_04_lulc.tif,505,504,EPSG:32643,"(10.0, 10.0)",97.73652365236524,248759,True,True,True
+Bengaluru,Training,5,bengaluru_2025_05.tif,bengaluru_2025_05_lulc.tif,505,504,EPSG:32643,"(10.0, 10.0)",97.73652365236524,248759,True,True,True
+Bengaluru,Training,6,bengaluru_2025_06.tif,bengaluru_2025_06_lulc.tif,505,504,EPSG:32643,"(10.0, 10.0)",97.73652365236524,248759,True,True,True
+Bengaluru,Training,7,bengaluru_2025_07.tif,bengaluru_2025_07_lulc.tif,505,504,EPSG:32643,"(10.0, 10.0)",97.73652365236524,248759,True,True,True
+Bengaluru,Training,8,bengaluru_2025_08.tif,bengaluru_2025_08_lulc.tif,505,504,EPSG:32643,"(10.0, 10.0)",97.73652365236524,248759,True,True,True
+Bengaluru,Training,9,bengaluru_2025_09.tif,bengaluru_2025_09_lulc.tif,505,504,EPSG:32643,"(10.0, 10.0)",97.73652365236524,248759,True,True,True
+Bengaluru,Training,10,bengaluru_2025_10.tif,bengaluru_2025_10_lulc.tif,505,504,EPSG:32643,"(10.0, 10.0)",97.73652365236524,248759,True,True,True
+Bengaluru,Training,11,bengaluru_2025_11.tif,bengaluru_2025_11_lulc.tif,505,504,EPSG:32643,"(10.0, 10.0)",97.73652365236524,248759,True,True,True
+Bengaluru,Training,12,bengaluru_2025_12.tif,bengaluru_2025_12_lulc.tif,505,504,EPSG:32643,"(10.0, 10.0)",97.73652365236524,248759,True,True,True
+New York,Training,1,new_york_2025_01.tif,new_york_2025_01_lulc.tif,506,505,EPSG:32618,"(10.0, 10.0)",97.6895080812429,249626,True,True,True
+New York,Training,2,new_york_2025_02.tif,new_york_2025_02_lulc.tif,506,505,EPSG:32618,"(10.0, 10.0)",97.6895080812429,249626,True,True,True
+New York,Training,3,new_york_2025_03.tif,new_york_2025_03_lulc.tif,506,505,EPSG:32618,"(10.0, 10.0)",97.6895080812429,249626,True,True,True
+New York,Training,4,new_york_2025_04.tif,new_york_2025_04_lulc.tif,506,505,EPSG:32618,"(10.0, 10.0)",97.6895080812429,249626,True,True,True
+New York,Training,5,new_york_2025_05.tif,new_york_2025_05_lulc.tif,506,505,EPSG:32618,"(10.0, 10.0)",97.6895080812429,249626,True,True,True
+New York,Training,6,new_york_2025_06.tif,new_york_2025_06_lulc.tif,506,505,EPSG:32618,"(10.0, 10.0)",97.6895080812429,249626,True,True,True
+New York,Training,7,new_york_2025_07.tif,new_york_2025_07_lulc.tif,506,505,EPSG:32618,"(10.0, 10.0)",97.6895080812429,249626,True,True,True
+New York,Training,8,new_york_2025_08.tif,new_york_2025_08_lulc.tif,506,505,EPSG:32618,"(10.0, 10.0)",97.6895080812429,249626,True,True,True
+New York,Training,9,new_york_2025_09.tif,new_york_2025_09_lulc.tif,506,505,EPSG:32618,"(10.0, 10.0)",97.6895080812429,249626,True,True,True
+New York,Training,10,new_york_2025_10.tif,new_york_2025_10_lulc.tif,506,505,EPSG:32618,"(10.0, 10.0)",97.6895080812429,249626,True,True,True
+New York,Training,11,new_york_2025_11.tif,new_york_2025_11_lulc.tif,506,505,EPSG:32618,"(10.0, 10.0)",97.6895080812429,249626,True,True,True
+New York,Training,12,new_york_2025_12.tif,new_york_2025_12_lulc.tif,506,505,EPSG:32618,"(10.0, 10.0)",97.6895080812429,249626,True,True,True
+Sao Paulo,Training,1,sao_paulo_2025_01.tif,sao_paulo_2025_01_lulc.tif,506,505,EPSG:32723,"(10.0, 10.0)",97.51536023167534,249181,True,True,True
+Sao Paulo,Training,2,sao_paulo_2025_02.tif,sao_paulo_2025_02_lulc.tif,506,505,EPSG:32723,"(10.0, 10.0)",97.51536023167534,249181,True,True,True
+Sao Paulo,Training,3,sao_paulo_2025_03.tif,sao_paulo_2025_03_lulc.tif,506,505,EPSG:32723,"(10.0, 10.0)",97.51536023167534,249181,True,True,True
+Sao Paulo,Training,4,sao_paulo_2025_04.tif,sao_paulo_2025_04_lulc.tif,506,505,EPSG:32723,"(10.0, 10.0)",97.51536023167534,249181,True,True,True
+Sao Paulo,Training,5,sao_paulo_2025_05.tif,sao_paulo_2025_05_lulc.tif,506,505,EPSG:32723,"(10.0, 10.0)",97.51536023167534,249181,True,True,True
+Sao Paulo,Training,6,sao_paulo_2025_06.tif,sao_paulo_2025_06_lulc.tif,506,505,EPSG:32723,"(10.0, 10.0)",97.51536023167534,249181,True,True,True
+Sao Paulo,Training,7,sao_paulo_2025_07.tif,sao_paulo_2025_07_lulc.tif,506,505,EPSG:32723,"(10.0, 10.0)",97.51536023167534,249181,True,True,True
+Sao Paulo,Training,8,sao_paulo_2025_08.tif,sao_paulo_2025_08_lulc.tif,506,505,EPSG:32723,"(10.0, 10.0)",97.51536023167534,249181,True,True,True
+Sao Paulo,Training,9,sao_paulo_2025_09.tif,sao_paulo_2025_09_lulc.tif,506,505,EPSG:32723,"(10.0, 10.0)",97.51536023167534,249181,True,True,True
+Sao Paulo,Training,10,sao_paulo_2025_10.tif,sao_paulo_2025_10_lulc.tif,506,505,EPSG:32723,"(10.0, 10.0)",97.51536023167534,249181,True,True,True
+Sao Paulo,Training,11,sao_paulo_2025_11.tif,sao_paulo_2025_11_lulc.tif,506,505,EPSG:32723,"(10.0, 10.0)",97.51536023167534,249181,True,True,True
+Sao Paulo,Training,12,sao_paulo_2025_12.tif,sao_paulo_2025_12_lulc.tif,506,505,EPSG:32723,"(10.0, 10.0)",97.51536023167534,249181,True,True,True
+Cairo,Training,1,cairo_2025_01.tif,cairo_2025_01_lulc.tif,508,507,EPSG:32636,"(10.0, 10.0)",96.8503937007874,249444,True,True,True
+Cairo,Training,2,cairo_2025_02.tif,cairo_2025_02_lulc.tif,508,507,EPSG:32636,"(10.0, 10.0)",96.8503937007874,249444,True,True,True
+Cairo,Training,3,cairo_2025_03.tif,cairo_2025_03_lulc.tif,508,507,EPSG:32636,"(10.0, 10.0)",96.8503937007874,249444,True,True,True
+Cairo,Training,4,cairo_2025_04.tif,cairo_2025_04_lulc.tif,508,507,EPSG:32636,"(10.0, 10.0)",96.8503937007874,249444,True,True,True
+Cairo,Training,5,cairo_2025_05.tif,cairo_2025_05_lulc.tif,508,507,EPSG:32636,"(10.0, 10.0)",96.8503937007874,249444,True,True,True
+Cairo,Training,6,cairo_2025_06.tif,cairo_2025_06_lulc.tif,508,507,EPSG:32636,"(10.0, 10.0)",96.8503937007874,249444,True,True,True
+Cairo,Training,7,cairo_2025_07.tif,cairo_2025_07_lulc.tif,508,507,EPSG:32636,"(10.0, 10.0)",96.8503937007874,249444,True,True,True
+Cairo,Training,8,cairo_2025_08.tif,cairo_2025_08_lulc.tif,508,507,EPSG:32636,"(10.0, 10.0)",96.8503937007874,249444,True,True,True
+Cairo,Training,9,cairo_2025_09.tif,cairo_2025_09_lulc.tif,508,507,EPSG:32636,"(10.0, 10.0)",96.8503937007874,249444,True,True,True
+Cairo,Training,10,cairo_2025_10.tif,cairo_2025_10_lulc.tif,508,507,EPSG:32636,"(10.0, 10.0)",96.8503937007874,249444,True,True,True
+Cairo,Training,11,cairo_2025_11.tif,cairo_2025_11_lulc.tif,508,507,EPSG:32636,"(10.0, 10.0)",96.8503937007874,249444,True,True,True
+Cairo,Training,12,cairo_2025_12.tif,cairo_2025_12_lulc.tif,508,507,EPSG:32636,"(10.0, 10.0)",96.8503937007874,249444,True,True,True
+Freiburg,Validation,1,freiburg_2025_01.tif,freiburg_2025_01_lulc.tif,508,507,EPSG:32632,"(10.0, 10.0)",96.99055739334358,249805,True,True,True
+Freiburg,Validation,2,freiburg_2025_02.tif,freiburg_2025_02_lulc.tif,508,507,EPSG:32632,"(10.0, 10.0)",96.99055739334358,249805,True,True,True
+Freiburg,Validation,3,freiburg_2025_03.tif,freiburg_2025_03_lulc.tif,508,507,EPSG:32632,"(10.0, 10.0)",96.99055739334358,249805,True,True,True
+Freiburg,Validation,4,freiburg_2025_04.tif,freiburg_2025_04_lulc.tif,508,507,EPSG:32632,"(10.0, 10.0)",96.99055739334358,249805,True,True,True
+Freiburg,Validation,5,freiburg_2025_05.tif,freiburg_2025_05_lulc.tif,508,507,EPSG:32632,"(10.0, 10.0)",96.99055739334358,249805,True,True,True
+Freiburg,Validation,6,freiburg_2025_06.tif,freiburg_2025_06_lulc.tif,508,507,EPSG:32632,"(10.0, 10.0)",96.99055739334358,249805,True,True,True
+Freiburg,Validation,7,freiburg_2025_07.tif,freiburg_2025_07_lulc.tif,508,507,EPSG:32632,"(10.0, 10.0)",96.99055739334358,249805,True,True,True
+Freiburg,Validation,8,freiburg_2025_08.tif,freiburg_2025_08_lulc.tif,508,507,EPSG:32632,"(10.0, 10.0)",96.99055739334358,249805,True,True,True
+Freiburg,Validation,9,freiburg_2025_09.tif,freiburg_2025_09_lulc.tif,508,507,EPSG:32632,"(10.0, 10.0)",96.99055739334358,249805,True,True,True
+Freiburg,Validation,10,freiburg_2025_10.tif,freiburg_2025_10_lulc.tif,508,507,EPSG:32632,"(10.0, 10.0)",96.99055739334358,249805,True,True,True
+Freiburg,Validation,11,freiburg_2025_11.tif,freiburg_2025_11_lulc.tif,508,507,EPSG:32632,"(10.0, 10.0)",96.99055739334358,249805,True,True,True
+Freiburg,Validation,12,freiburg_2025_12.tif,freiburg_2025_12_lulc.tif,508,507,EPSG:32632,"(10.0, 10.0)",96.99055739334358,249805,True,True,True
+Singapore,Validation,1,singapore_2025_01.tif,singapore_2025_01_lulc.tif,499,499,EPSG:32648,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Singapore,Validation,2,singapore_2025_02.tif,singapore_2025_02_lulc.tif,499,499,EPSG:32648,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Singapore,Validation,3,singapore_2025_03.tif,singapore_2025_03_lulc.tif,499,499,EPSG:32648,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Singapore,Validation,4,singapore_2025_04.tif,singapore_2025_04_lulc.tif,499,499,EPSG:32648,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Singapore,Validation,5,singapore_2025_05.tif,singapore_2025_05_lulc.tif,499,499,EPSG:32648,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Singapore,Validation,6,singapore_2025_06.tif,singapore_2025_06_lulc.tif,499,499,EPSG:32648,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Singapore,Validation,7,singapore_2025_07.tif,singapore_2025_07_lulc.tif,499,499,EPSG:32648,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Singapore,Validation,8,singapore_2025_08.tif,singapore_2025_08_lulc.tif,499,499,EPSG:32648,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Singapore,Validation,9,singapore_2025_09.tif,singapore_2025_09_lulc.tif,499,499,EPSG:32648,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Singapore,Validation,10,singapore_2025_10.tif,singapore_2025_10_lulc.tif,499,499,EPSG:32648,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Singapore,Validation,11,singapore_2025_11.tif,singapore_2025_11_lulc.tif,499,499,EPSG:32648,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Singapore,Validation,12,singapore_2025_12.tif,singapore_2025_12_lulc.tif,499,499,EPSG:32648,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Heidelberg,Testing,1,heidelberg_2025_01.tif,heidelberg_2025_01_lulc.tif,503,501,EPSG:32632,"(10.0, 10.0)",99.207152295806,250005,True,True,True
+Heidelberg,Testing,2,heidelberg_2025_02.tif,heidelberg_2025_02_lulc.tif,503,501,EPSG:32632,"(10.0, 10.0)",99.207152295806,250005,True,True,True
+Heidelberg,Testing,3,heidelberg_2025_03.tif,heidelberg_2025_03_lulc.tif,503,501,EPSG:32632,"(10.0, 10.0)",99.207152295806,250005,True,True,True
+Heidelberg,Testing,4,heidelberg_2025_04.tif,heidelberg_2025_04_lulc.tif,503,501,EPSG:32632,"(10.0, 10.0)",99.207152295806,250005,True,True,True
+Heidelberg,Testing,5,heidelberg_2025_05.tif,heidelberg_2025_05_lulc.tif,503,501,EPSG:32632,"(10.0, 10.0)",99.207152295806,250005,True,True,True
+Heidelberg,Testing,6,heidelberg_2025_06.tif,heidelberg_2025_06_lulc.tif,503,501,EPSG:32632,"(10.0, 10.0)",99.207152295806,250005,True,True,True
+Heidelberg,Testing,7,heidelberg_2025_07.tif,heidelberg_2025_07_lulc.tif,503,501,EPSG:32632,"(10.0, 10.0)",99.207152295806,250005,True,True,True
+Heidelberg,Testing,8,heidelberg_2025_08.tif,heidelberg_2025_08_lulc.tif,503,501,EPSG:32632,"(10.0, 10.0)",99.207152295806,250005,True,True,True
+Heidelberg,Testing,9,heidelberg_2025_09.tif,heidelberg_2025_09_lulc.tif,503,501,EPSG:32632,"(10.0, 10.0)",99.207152295806,250005,True,True,True
+Heidelberg,Testing,10,heidelberg_2025_10.tif,heidelberg_2025_10_lulc.tif,503,501,EPSG:32632,"(10.0, 10.0)",99.207152295806,250005,True,True,True
+Heidelberg,Testing,11,heidelberg_2025_11.tif,heidelberg_2025_11_lulc.tif,503,501,EPSG:32632,"(10.0, 10.0)",99.207152295806,250005,True,True,True
+Heidelberg,Testing,12,heidelberg_2025_12.tif,heidelberg_2025_12_lulc.tif,503,501,EPSG:32632,"(10.0, 10.0)",99.207152295806,250005,True,True,True
+Nairobi,Testing,1,nairobi_2025_01.tif,nairobi_2025_01_lulc.tif,499,499,EPSG:32737,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Nairobi,Testing,2,nairobi_2025_02.tif,nairobi_2025_02_lulc.tif,499,499,EPSG:32737,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Nairobi,Testing,3,nairobi_2025_03.tif,nairobi_2025_03_lulc.tif,499,499,EPSG:32737,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Nairobi,Testing,4,nairobi_2025_04.tif,nairobi_2025_04_lulc.tif,499,499,EPSG:32737,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Nairobi,Testing,5,nairobi_2025_05.tif,nairobi_2025_05_lulc.tif,499,499,EPSG:32737,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Nairobi,Testing,6,nairobi_2025_06.tif,nairobi_2025_06_lulc.tif,499,499,EPSG:32737,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Nairobi,Testing,7,nairobi_2025_07.tif,nairobi_2025_07_lulc.tif,499,499,EPSG:32737,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Nairobi,Testing,8,nairobi_2025_08.tif,nairobi_2025_08_lulc.tif,499,499,EPSG:32737,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Nairobi,Testing,9,nairobi_2025_09.tif,nairobi_2025_09_lulc.tif,499,499,EPSG:32737,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Nairobi,Testing,10,nairobi_2025_10.tif,nairobi_2025_10_lulc.tif,499,499,EPSG:32737,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Nairobi,Testing,11,nairobi_2025_11.tif,nairobi_2025_11_lulc.tif,499,499,EPSG:32737,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Nairobi,Testing,12,nairobi_2025_12.tif,nairobi_2025_12_lulc.tif,499,499,EPSG:32737,"(10.0, 10.0)",99.59960000160642,248004,True,True,True
+Sydney,Testing,1,sydney_2025_01.tif,sydney_2025_01_lulc.tif,510,508,EPSG:32756,"(10.0, 10.0)",96.27721167207041,249435,True,True,True
+Sydney,Testing,2,sydney_2025_02.tif,sydney_2025_02_lulc.tif,510,508,EPSG:32756,"(10.0, 10.0)",96.27721167207041,249435,True,True,True
+Sydney,Testing,3,sydney_2025_03.tif,sydney_2025_03_lulc.tif,510,508,EPSG:32756,"(10.0, 10.0)",96.27721167207041,249435,True,True,True
+Sydney,Testing,4,sydney_2025_04.tif,sydney_2025_04_lulc.tif,510,508,EPSG:32756,"(10.0, 10.0)",96.27721167207041,249435,True,True,True
+Sydney,Testing,5,sydney_2025_05.tif,sydney_2025_05_lulc.tif,510,508,EPSG:32756,"(10.0, 10.0)",96.27721167207041,249435,True,True,True
+Sydney,Testing,6,sydney_2025_06.tif,sydney_2025_06_lulc.tif,510,508,EPSG:32756,"(10.0, 10.0)",96.27721167207041,249435,True,True,True
+Sydney,Testing,7,sydney_2025_07.tif,sydney_2025_07_lulc.tif,510,508,EPSG:32756,"(10.0, 10.0)",96.27721167207041,249435,True,True,True
+Sydney,Testing,8,sydney_2025_08.tif,sydney_2025_08_lulc.tif,510,508,EPSG:32756,"(10.0, 10.0)",96.27721167207041,249435,True,True,True
+Sydney,Testing,9,sydney_2025_09.tif,sydney_2025_09_lulc.tif,510,508,EPSG:32756,"(10.0, 10.0)",96.27721167207041,249435,True,True,True
+Sydney,Testing,10,sydney_2025_10.tif,sydney_2025_10_lulc.tif,510,508,EPSG:32756,"(10.0, 10.0)",96.27721167207041,249435,True,True,True
+Sydney,Testing,11,sydney_2025_11.tif,sydney_2025_11_lulc.tif,510,508,EPSG:32756,"(10.0, 10.0)",96.27721167207041,249435,True,True,True
+Sydney,Testing,12,sydney_2025_12.tif,sydney_2025_12_lulc.tif,510,508,EPSG:32756,"(10.0, 10.0)",96.27721167207041,249435,True,True,True

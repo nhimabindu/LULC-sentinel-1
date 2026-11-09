@@ -1,0 +1,16 @@
+city,state,year,annual_scenes,months_with_scenes,minimum_monthly_scenes,meets_annual_target,all_12_months_have_scenes
+Berlin,Berlin,2025,234,12,9,True,True
+Bremen,Bremen,2025,204,12,9,True,True
+Cologne,North Rhine-Westphalia,2025,203,12,9,True,True
+Dresden,Saxony,2025,159,12,7,True,True
+Düsseldorf,North Rhine-Westphalia,2025,203,12,9,True,True
+Frankfurt am Main,Hesse,2025,205,12,9,True,True
+Freiburg im Breisgau,Baden-Württemberg,2025,205,12,10,True,True
+Hamburg,Hamburg,2025,201,12,9,True,True
+Hannover,Lower Saxony,2025,170,12,7,True,True
+Heidelberg,Baden-Württemberg,2025,152,12,7,True,True
+Karlsruhe,Baden-Württemberg,2025,153,12,7,True,True
+Leipzig,Saxony,2025,213,12,9,True,True
+Munich,Bavaria,2025,235,12,11,True,True
+Nuremberg,Bavaria,2025,225,12,9,True,True
+Stuttgart,Baden-Württemberg,2025,152,12,7,True,True

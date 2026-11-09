@@ -1,0 +1,17 @@
+{
+    "bands": [
+        "VV",
+        "VH"
+    ],
+    "mean": [
+        -5.510348436994698,
+        -12.706986411941466
+    ],
+    "std": [
+        5.4306299347431,
+        5.263885534137586
+    ],
+    "valid_pixel_count": 20969400,
+    "normalization": "z-score",
+    "computed_from": "7 training cities, all 12 months"
+}

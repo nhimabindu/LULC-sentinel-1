@@ -1,0 +1,15 @@
+{
+    "city": "Bengaluru",
+    "crs": "EPSG:32643",
+    "width": 504,
+    "height": 505,
+    "resolution_metres": 10,
+    "transform": [
+        10.0,
+        0.0,
+        778967.8893400328,
+        0.0,
+        -10.0,
+        1437945.8240174262
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "city": "Singapore",
+    "crs": "EPSG:32648",
+    "width": 499,
+    "height": 499,
+    "resolution_metres": 10,
+    "transform": [
+        10.0,
+        0.0,
+        366212.9221261282,
+        0.0,
+        -10.0,
+        151968.80378199532
+    ]
+}

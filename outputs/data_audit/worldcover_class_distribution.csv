@@ -1,0 +1,73 @@
+City,Split,Class_ID,Class,Pixels,Percentage
+Heidelberg,test,0,Tree cover,78772,31.258358035420212
+Heidelberg,test,1,Grassland,25249,10.019325166763888
+Heidelberg,test,2,Cropland,29768,11.812557787010473
+Heidelberg,test,3,Built-up,110962,44.032015491879065
+Heidelberg,test,4,Bare/sparse vegetation,397,0.15753780708959814
+Heidelberg,test,5,Permanent water,6855,2.7202057118367637
+Berlin,train,0,Tree cover,66540,25.432863203761038
+Berlin,train,1,Grassland,4538,1.7345105683598976
+Berlin,train,2,Cropland,33,0.012613232427473914
+Berlin,train,3,Built-up,186017,71.09926231701257
+Berlin,train,4,Bare/sparse vegetation,254,0.09708366777510224
+Berlin,train,5,Permanent water,4248,1.6236670106639146
+Munich,train,0,Tree cover,75017,28.120267494339735
+Munich,train,1,Grassland,5457,2.045567001034591
+Munich,train,2,Cropland,76,0.028488746944956744
+Munich,train,3,Built-up,181910,68.18931522048791
+Munich,train,4,Bare/sparse vegetation,673,0.25227535123626166
+Munich,train,5,Permanent water,3639,1.3640861859565472
+Hamburg,train,0,Tree cover,42406,16.46643109540636
+Hamburg,train,1,Grassland,2552,0.9909525103871394
+Hamburg,train,2,Cropland,566,0.21978021978021978
+Hamburg,train,3,Built-up,162601,63.13866345668466
+Hamburg,train,4,Bare/sparse vegetation,465,0.18056148798198268
+Hamburg,train,5,Permanent water,48940,19.00361122975964
+Freiburg,val,0,Tree cover,122477,47.553541754026305
+Freiburg,val,1,Grassland,13826,5.368152945378869
+Freiburg,val,2,Cropland,593,0.230241190265418
+Freiburg,val,3,Built-up,119297,46.31885881128764
+Freiburg,val,4,Bare/sparse vegetation,306,0.11880911335787168
+Freiburg,val,5,Permanent water,1057,0.4103961856838901
+Bengaluru,train,0,Tree cover,64201,25.28096081905887
+Bengaluru,train,1,Grassland,3097,1.2195314038196496
+Bengaluru,train,2,Cropland,2236,0.8804882850954913
+Bengaluru,train,3,Built-up,182048,71.68655247095884
+Bengaluru,train,4,Bare/sparse vegetation,1850,0.7284898602087025
+Bengaluru,train,5,Permanent water,518,0.2039771608584367
+Singapore,val,0,Tree cover,137907,55.386561709305596
+Singapore,val,1,Grassland,22246,8.934495361259488
+Singapore,val,2,Cropland,76,0.03052331418932487
+Singapore,val,3,Built-up,59251,23.796538013574843
+Singapore,val,4,Bare/sparse vegetation,1184,0.4755211052652717
+Singapore,val,5,Permanent water,28326,11.376360496405479
+Nairobi,test,0,Tree cover,46211,19.09166776837652
+Nairobi,test,1,Grassland,11900,4.916380222104706
+Nairobi,test,2,Cropland,2933,1.2117431253305129
+Nairobi,test,3,Built-up,177540,73.34908778424115
+Nairobi,test,4,Bare/sparse vegetation,3283,1.3563425436277101
+Nairobi,test,5,Permanent water,181,0.07477855631940772
+Cairo,train,0,Tree cover,9707,3.773020204140333
+Cairo,train,1,Grassland,1132,0.43999782333232274
+Cairo,train,2,Cropland,198,0.07696075001749109
+Cairo,train,3,Built-up,223463,86.85798020787176
+Cairo,train,4,Bare/sparse vegetation,1057,0.4108460240832731
+Cairo,train,5,Permanent water,21717,8.441194990554816
+New York,train,0,Tree cover,21043,8.239490665330159
+New York,train,1,Grassland,2436,0.9538278411226664
+New York,train,2,Cropland,20,0.007831098859792007
+New York,train,3,Built-up,125032,48.956897631875705
+New York,train,4,Bare/sparse vegetation,1564,0.6123919308357348
+New York,train,5,Permanent water,105297,41.229560831975945
+Sao Paulo,train,0,Tree cover,17248,6.749892380542402
+Sao Paulo,train,1,Grassland,987,0.38625601690603845
+Sao Paulo,train,2,Cropland,30,0.011740304465229131
+Sao Paulo,train,3,Built-up,236700,92.63100223065784
+Sao Paulo,train,4,Bare/sparse vegetation,462,0.18080068876452862
+Sao Paulo,train,5,Permanent water,103,0.04030837866395335
+Sydney,test,0,Tree cover,38858,15.054238338757168
+Sydney,test,1,Grassland,10702,4.146133581280025
+Sydney,test,2,Cropland,0,0.0
+Sydney,test,3,Built-up,121773,47.17689446768944
+Sydney,test,4,Bare/sparse vegetation,3377,1.3083062141639548
+Sydney,test,5,Permanent water,83410,32.31442739810941

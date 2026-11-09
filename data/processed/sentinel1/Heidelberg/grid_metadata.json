@@ -1,0 +1,15 @@
+{
+    "city": "Heidelberg",
+    "crs": "EPSG:32632",
+    "width": 501,
+    "height": 503,
+    "resolution_metres": 10,
+    "transform": [
+        10.0,
+        0.0,
+        473730.0,
+        0.0,
+        -10.0,
+        5474360.0
+    ]
+}

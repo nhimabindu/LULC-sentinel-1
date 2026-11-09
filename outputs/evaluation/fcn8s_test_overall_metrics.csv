@@ -1,0 +1,2 @@
+Model,Test Overall Accuracy,Test Mean IoU,Test Mean F1,Test Pixels,Checkpoint Epoch
+FCN-8s,0.6446243643748938,0.29645797257408596,0.400368614086202,27082788,4
